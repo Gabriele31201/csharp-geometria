@@ -16,4 +16,24 @@ public class rettangolo
 
 
 
+
+
+    //Metodi
+
+    public int calcoloArea()
+    {
+        int area = baseRettangolo * altezzaRettangolo;
+        return area;
+    }
+
+    public int calcoloPerimetro()
+    {
+        int perimetro = baseRettangolo * 2 + altezzaRettangolo * 2;
+        return perimetro;
+    }
 }
+
+
+
+
+
