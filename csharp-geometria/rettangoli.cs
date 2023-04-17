@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 public class rettangolo
 {
     //Attributi
-
+    public int baseRettangolo;
+    public int altezzaRettangolo;
 
 
 
